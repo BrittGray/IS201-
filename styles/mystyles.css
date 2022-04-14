@@ -1,0 +1,42 @@
+body {
+    background-color: aliceblue;
+}
+.picture1{
+    margin-right: 5%;
+}
+.picture2{
+    margin-left: 5%;
+}
+.resumefont{
+    color:black;
+    font-family: sans-serif;
+}
+.resumefont2{
+    font-size: medium;
+}
+.headerfont{
+    font-weight: bold;
+}
+.headerfont2{
+    font-style: oblique;
+}
+.picture3{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+.center{
+    text-align:center
+}
+.embeddedvideo{
+    margin-right: 10%;
+    margin-top: 2%;
+}
+.anchor2{
+    color:black;
+    margin-left:5%;
+}
+.anchor1{
+    color:white;
+    text-align: center;
+}
